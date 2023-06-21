@@ -1,0 +1,22 @@
+|BCDTo7Segment
+clock => bcd_reg[0].CLK
+clock => bcd_reg[1].CLK
+clock => bcd_reg[2].CLK
+clock => bcd_reg[3].CLK
+reset => bcd_reg[0].ACLR
+reset => bcd_reg[1].ACLR
+reset => bcd_reg[2].ACLR
+reset => bcd_reg[3].ACLR
+bcd[0] => bcd_reg[0].DATAIN
+bcd[1] => bcd_reg[1].DATAIN
+bcd[2] => bcd_reg[2].DATAIN
+bcd[3] => bcd_reg[3].DATAIN
+segment[0] <= WideOr6.DB_MAX_OUTPUT_PORT_TYPE
+segment[1] <= WideOr5.DB_MAX_OUTPUT_PORT_TYPE
+segment[2] <= WideOr4.DB_MAX_OUTPUT_PORT_TYPE
+segment[3] <= WideOr3.DB_MAX_OUTPUT_PORT_TYPE
+segment[4] <= WideOr2.DB_MAX_OUTPUT_PORT_TYPE
+segment[5] <= WideOr1.DB_MAX_OUTPUT_PORT_TYPE
+segment[6] <= WideOr0.DB_MAX_OUTPUT_PORT_TYPE
+
+

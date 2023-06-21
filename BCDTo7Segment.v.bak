@@ -1,0 +1,4 @@
+module BCDTo7Segment #(
+	parameter N=4
+	)(
+	input 
