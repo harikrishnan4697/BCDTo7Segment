@@ -1,0 +1,33 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/harik/Workspace/BCDTo7Segment/simulation/modelsim
+vBCDTo7Segment
+!s110 1687343821
+!i10b 1
+!s100 F:fLDB64J90AYUSQlCSfW0
+Izic5S7fTcPWCzYS6<2<2_0
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1687341216
+8C:/Users/harik/Workspace/BCDTo7Segment/BCDTo7Segment.v
+FC:/Users/harik/Workspace/BCDTo7Segment/BCDTo7Segment.v
+L0 1
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1687343821.000000
+!s107 C:/Users/harik/Workspace/BCDTo7Segment/BCDTo7Segment.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/harik/Workspace/BCDTo7Segment|C:/Users/harik/Workspace/BCDTo7Segment/BCDTo7Segment.v|
+!i113 1
+o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+C:/Users/harik/Workspace/BCDTo7Segment
+tCvgOpt 0
+n@b@c@d@to7@segment
